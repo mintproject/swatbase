@@ -1,6 +1,6 @@
 FROM rocker/r-base
 LABEL org.label-schema.license="GPL-2.0" \
-      org.label-schema.vcs-url="https://github.com/vtdrfuka" \
+      org.label-schema.vcs-url="https://github.com/mintproject" \
       maintainer="Daniel Fuka <drfuka@vt.edu>"
 
 RUN apt update \
